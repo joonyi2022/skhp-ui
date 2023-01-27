@@ -23,5 +23,5 @@ SOURCES += mainwindow/main.cpp \
 		   mainwindow/fw_upgrade.cpp
 
 
-target.path = $PWD/ui_mainwindow
+target.path = $PWD/ui_app
 INSTALLS += target
