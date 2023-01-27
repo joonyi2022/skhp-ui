@@ -27,7 +27,7 @@
 #define     EINK_SCREEN133_HEIGHT_1600             1600
 
 
-//#define     SKH_PRODUCTION
+#define     SKH_PRODUCTION
 
 //#endif
 //#define     EINK_FACTORY_AGING_TESTING      
@@ -38,7 +38,7 @@
 #define LOCAL_TEMPLATE_MODE              0
 #define REMOTE_TEMPLATE_MODE             1
 //#define SKH_POWER_OFF_SHOW
-#define     SKH_DEVICE_INFO_SHOW 
+//#define     SKH_DEVICE_INFO_SHOW 
 #define     SKH_WHITE_SHOW               0             
 #define     SKH_BLACK_SHOW               0  
 //#define     HORIZON_DISPLAY_9_7
