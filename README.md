@@ -10,7 +10,7 @@ skhoffice2.ngork.io
 ```
 Above three lines represent
 ```
-m_http_host_name<br>
-m_mqtt_host_name<br>
-m_mqtt_host_port<br>
+m_http_host_name
+m_mqtt_host_name
+m_mqtt_host_port
 ```
